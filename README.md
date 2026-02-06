@@ -32,9 +32,9 @@ I’m a UI/UX Developer who loves crafting clean, intuitive, and user-centered d
 - **UI:** Responsive Design, Design Systems, Accessibility  
 
 ### 📫 How to reach me
-- GitHub: [@surajillustrator](https://github.com/surajillustrator)
-- Portfolio:[@surajillustrator](https://surajdesigns.netlify.app)
-- Email: [@surajillustrator@gmail.com](mailto:surajillustrator@gmail.com)
+- **GitHub:** [@surajillustrator](https://github.com/surajillustrator)
+- **Portfolio:** [surajdesigns.netlify.app](https://surajdesigns.netlify.app)
+- **Email:** [surajillustrator@gmail.com](mailto:surajillustrator@gmail.com)
 
 ### 😄 Pronouns
 - He/Him  
